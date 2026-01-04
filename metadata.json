@@ -1,0 +1,5 @@
+{
+  "name": "品保工作日報表",
+  "description": "An intelligent dashboard for analyzing daily employee work reports. It automatically parses task descriptions, calculates time allocations, and provides visual insights and productivity suggestions using AI.",
+  "requestFramePermissions": []
+}
